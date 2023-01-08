@@ -6,31 +6,25 @@
 #   weight: 5
 
 - name: Git
-  weight: 5
+  weight: 2
 
 - name: Bash
   weight: 3
 
-- name: Scrum
+- name: genome assembly
   weight: 3
 
-- name: Travis CI
-  weight: 1
-
-- name: Jenkins
-  weight: 1
-
-- name: Chrome DevTools
-  weight: 2
-
-- name: npm
-  weight: 2
-
-- name: gulp
-  weight: 4
-
-- name: VS Code
+- name: population genomics
   weight: 3
 
-- name: Postman
-  weight: 4
+- name: GATK
+  weight: 1
+
+- name: Galaxy platform
+  weight: 2
+
+- name: selection scans
+  weight: 3
+
+- name: IGV
+  weight: 1

@@ -17,45 +17,48 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Vertebrate Genome Lab
+  title-url: https://www.vertebrategenomelab.org/
+  date: Oct 2021 - Present
+  subtitle: Bioinformatician
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: Genome assembly (long reads)
+    - tag: Galaxy platform
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: American Museum of Natural History
+  title-url: http://www.amnh.org/
+  date: 2019 - 2021
+  subtitle: Research assistant (Ichthyology)
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+    - tag: ddRAD-seq
+    - tag: population genomics
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: Fordham University
+  title-url: https://www.fordham.edu/
+  date: May 2019
+  subtitle: M.Sc. Biological Sciences
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: Master's student (Munshi-South Lab)
+  title-url: https://nycevolution.org/
+  date: 2017 - 2019
+  subtitle: Evolution in white-footed mice in the NYC metropolitan area
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: whole-exome sequencing
+    - tag: VCF calling
+    - tag: R, unix scripting
+    - tag: ArcGIS, QGIS
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: Teaching assistant
+  date: 2018 - 2019
+  subtitle: Genetics lab TA
+  timeline-side: right
+
+- title: Fordham University
+  title-url: https://www.fordham.edu/
+  date: May 2018
+  subtitle: B.S. Biological Sciences
   timeline-side: left
