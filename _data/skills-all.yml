@@ -1,0 +1,50 @@
+# > name: Name of your programming language
+# > weight: Describes how good you know the language - values from 1 up to 5
+#
+# Example of a Language
+# - name: Language
+#   weight: 5
+
+- name: unix & bash scripting
+  weight: 3
+  color: blue
+
+- name: R
+  weight: 2
+  color: blue
+
+- name: Python
+  weight: 1
+  color: blue
+
+- name: Git
+  weight: 2
+  color: blue
+
+- name: Bash
+  weight: 3
+  color: blue
+
+- name: genome assembly
+  weight: 3
+  color: blue
+
+- name: population genomics
+  weight: 3
+  color: blue
+
+- name: GATK
+  weight: 1
+  color: blue
+
+- name: Galaxy platform
+  weight: 2
+  color: blue
+
+- name: selection scans
+  weight: 3
+  color: blue
+
+- name: IGV
+  weight: 1
+  color: blue

@@ -392,15 +392,11 @@ a {
     transition: opacity 0.5s;
   }
 
-  div[skill-type="language"] {
+  div[skill-color="orange"] {
     color: #ffbd33;
   }
 
-//  div[skill-type="framework"] {
-//    color: #ff847c;
-//  }
-
-  div[skill-type="tool"] {
+  div[skill-color="blue"] {
     color: #5733ff;
   }
 
@@ -733,7 +729,7 @@ a {
       @include neumorphism-button-pressed();
     }
 
-    input[id="language"]:checked ~ div[skill-type="framework"],
+/*     input[id="language"]:checked ~ div[skill-type="framework"],
     input[id="language"]:checked ~ div[skill-type="tool"] {
       @include filter-out;
     }
@@ -746,7 +742,7 @@ a {
     input[id="tool"]:checked ~ div[skill-type="language"],
     input[id="tool"]:checked ~ div[skill-type="framework"] {
       @include filter-out;
-    }
+    } */
   }
 
   .timeline-wrapper {
