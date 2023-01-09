@@ -5,46 +5,70 @@
 # - name: Language
 #   weight: 5
 
-- name: unix & bash scripting
+- name: R
   weight: 3
   color: blue
 
-- name: R
-  weight: 2
-  color: blue
-
 - name: Python
-  weight: 1
-  color: blue
+  weight: 2
+  color: orange
 
 - name: Git
   weight: 2
-  color: blue
+  color: orange
 
 - name: Bash
   weight: 3
   color: blue
 
 - name: genome assembly
-  weight: 3
-  color: blue
+  weight: 2
+  color: orange
 
 - name: population genomics
-  weight: 3
+  weight: 2
   color: blue
 
 - name: GATK
   weight: 1
-  color: blue
+  color: orange
 
 - name: Galaxy platform
   weight: 2
   color: blue
 
 - name: selection scans
-  weight: 3
-  color: blue
+  weight: 2
+  color: orange
 
 - name: IGV
   weight: 1
   color: blue
+
+- name: PLINK
+  weight: 1
+  color: orange
+
+- name: PacBio HiFi
+  weight: 3
+  color: blue
+
+- name: VCFtools
+  weight: 1
+  color: orange
+
+- name: picard
+  weight: 1
+  color: orange
+
+- name: samtools
+  weight: 1
+  color: blue
+
+- name: Bionano optical maps
+  weight: 3
+  color: blue
+
+- name: Hi-C scaffolding
+  weight: 3
+  color: orange
