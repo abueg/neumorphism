@@ -61,7 +61,7 @@ a {
 
 .highlight-title {
   color: $primary-color;
-  text-shadow: 0.25rem 0.25rem 0.25rem #000000;
+  text-shadow: 0.15rem 0.15rem 0.15rem #000000;
 
 }
 
@@ -393,15 +393,15 @@ a {
   }
 
   div[skill-type="language"] {
-    color: #e84a5f;
+    color: #ffbd33;
   }
 
-  div[skill-type="framework"] {
-    color: #ff847c;
-  }
+//  div[skill-type="framework"] {
+//    color: #ff847c;
+//  }
 
   div[skill-type="tool"] {
-    color: #fecea8;
+    color: #5733ff;
   }
 
   div[skill-weight="1"] {
