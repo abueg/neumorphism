@@ -41,10 +41,10 @@
   subtitle: M.Sc. Biological Sciences
   timeline-side: left
 
-- title: Master's student (Munshi-South Lab)
+- title: Master's reserach
   title-url: https://nycevolution.org/
   date: 2017 - 2019
-  subtitle: Evolution in white-footed mice in the NYC metropolitan area
+  subtitle: Evolution in white-footed mice in the NYC metropolitan area (Munshi-South Lab)
   tags:
     - tag: whole-exome sequencing
     - tag: VCF calling

@@ -1,0 +1,21 @@
+# > name: Name of your project
+# > descr: Description of your project
+# > demo: Link to your project
+# > tags: List of technologies you used in your projects
+#
+# Example of a project
+# - name: project X
+#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+#   demo: https://example.com/
+#   tags:
+#     - tag: MongoDB
+#     - tag: Express
+#     - tag: AngularJS
+#     - tag: Node
+
+- name: "Validation of a near telomere-to-telomere genome assembly for HG002 with Hi-C and ultra-long reads"
+  descr: "Brajuka, N., <b><u>Abueg, L.</u></b>, Fedrigo, O., Jarvis, E.D., Formenti, G., and HPRC-T2T Consortium (2022: Human Pangenome Reference Consortium annual meeting, Bethesda, MD)"
+
+- name: "Reproducible and high-quality genome assembly and evaluation workflows in Galaxy"
+  descr: "<b><u>Abueg, L.</u></b>, Brajuka, N., Palmada-Flores, M., Gallardo, C., Grüning, B., Larivière, D., Nekrutenko, A., Ostrovsky, A., Schatz, M., Jarvis, E.D., Fedrigo, O., and Formenti, G. (2022: Biology of Genomes, Cold Spring Harbor, NY)"
+  demo: https://github.com/abueg/posters/tree/main/2022_BiologyOfGenomes
