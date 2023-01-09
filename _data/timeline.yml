@@ -48,8 +48,9 @@
   tags:
     - tag: whole-exome sequencing
     - tag: VCF calling
-    - tag: R, unix scripting
-    - tag: ArcGIS, QGIS
+    - tag: R
+    - tag: unix scripting
+    - tag: ArcGIS & QGIS
   timeline-side: right
 
 - title: Teaching assistant

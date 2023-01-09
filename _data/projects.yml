@@ -13,21 +13,34 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: "Gfastats: conversion, evaluation, and manipulation of genome sequences using assembly graphs"
+  descr: "Formenti, G., <b><u>Abueg, L.</u></b>, Brajuka, A., Brajuka, N., Gallardo, C., Giani, A., Fedrigo, O., and Jarvis, E.D. (2022, Bioinformatics)"
+  demo: https://doi.org/10.1093/bioinformatics/btac460
   tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
+    - tag: assembly graphs
+    - tag: bioinformatics
+    - tag: genome assembly
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: "MitoHiFi: a python pipeline for mitochondrial genome assembly from PacBio High Fidelity reads"
+  descr: "Uliano-Silva, M., Gabriel R. N. Ferreira, J., Krasheninnikova, K., Darwin Tree of Life Consortium, Formenti, G., <b><u>Abueg, L.</u></b>, Torrance, J., Myers, E. W., Durbin, R., Blaxter, M., and McCarthy S.A. (2022, bioRxiv)"
+  demo: https://doi.org/10.1101/2022.12.23.521667
   tags:
-    - tag: Python
-    - tag: Django
+    - tag: mitochondrial dna
+    - tag: long reads
+    - tag: genome assembly
 
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+- name: "Pangenomics provides insights into the role of synantropy in barn swallow evolution"
+  descr: "Secomandi, S. & Gallo, G.R., [et al., including <b><u>Abueg, L.</u></b>] (2022, bioRxiv)"
+  demo: https://doi.org/10.1101/2022.03.28.486082 
+  tags:
+    - tag: genome assembly
+    - tag: pangenomics
+
+- name: "Exome sequencing of deer mice on two California Channel Islands identifies potential adaptation to strongly contrasting ecological conditions."
+  descr: "Orrock, J.L., <b><u>Abueg, L.</u></b>, Gammie, S., and Munshi-South, J. (2021, Molecular Ecology)"
+  demo: https://doi.org/10.1002/ece3.8357 
+  tags:
+    - tag: molecular ecology 
+    - tag: population genomics
+    - tag: selection scans
+
