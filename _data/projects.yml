@@ -13,6 +13,13 @@
 #     - tag: AngularJS
 #     - tag: Node
 
+- name: "A chromosome-level reference genome and pangenome for barn swallow population genomics"
+  descr: "Secomandi, S. & Gallo, G.R., [et al., including <b><u>Abueg, L.</u></b>] (2023, Cell Reports)"
+  demo: https://doi.org/10.1016/j.celrep.2023.111992 
+  tags:
+    - tag: genome assembly
+    - tag: pangenomics
+
 - name: "Gfastats: conversion, evaluation, and manipulation of genome sequences using assembly graphs"
   descr: "Formenti, G., <b><u>Abueg, L.</u></b>, Brajuka, A., Brajuka, N., Gallardo, C., Giani, A., Fedrigo, O., and Jarvis, E.D. (2022, Bioinformatics)"
   demo: https://doi.org/10.1093/bioinformatics/btac460
@@ -28,13 +35,6 @@
     - tag: mitochondrial dna
     - tag: long reads
     - tag: genome assembly
-
-- name: "Pangenomics provides insights into the role of synantropy in barn swallow evolution"
-  descr: "Secomandi, S. & Gallo, G.R., [et al., including <b><u>Abueg, L.</u></b>] (2022, bioRxiv)"
-  demo: https://doi.org/10.1101/2022.03.28.486082 
-  tags:
-    - tag: genome assembly
-    - tag: pangenomics
 
 - name: "Exome sequencing of deer mice on two California Channel Islands identifies potential adaptation to strongly contrasting ecological conditions."
   descr: "Orrock, J.L., <b><u>Abueg, L.</u></b>, Gammie, S., and Munshi-South, J. (2021, Molecular Ecology)"
