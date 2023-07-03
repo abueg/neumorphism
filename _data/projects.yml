@@ -13,12 +13,14 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: "A chromosome-level reference genome and pangenome for barn swallow population genomics"
-  descr: "Secomandi, S. & Gallo, G.R., [et al., including <b><u>Abueg, L.</u></b>] (2023, Cell Reports)"
-  demo: https://doi.org/10.1016/j.celrep.2023.111992 
+- name: "Scalable, accessible, and reproducible reference genome assembly and evaluation in Galaxy"
+  descr: "Larivière, D.<sup>†</sup>, <b><u>Abueg, L.</u></b><sup>†</sup>, Brajuka, N.<sup>†</sup>, et al. (2023, bioRxiv) († = first authors)"
+  demo: https://doi.org/10.1016/j.celrep.2023.111992https://doi.org/10.1101/2023.06.28.546576  
   tags:
     - tag: genome assembly
-    - tag: pangenomics
+    - tag: galaxy platform
+    - tag: bioinformatics
+    
 
 - name: "Gfastats: conversion, evaluation, and manipulation of genome sequences using assembly graphs"
   descr: "Formenti, G., <b><u>Abueg, L.</u></b>, Brajuka, A., Brajuka, N., Gallardo, C., Giani, A., Fedrigo, O., and Jarvis, E.D. (2022, Bioinformatics)"
