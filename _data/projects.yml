@@ -15,7 +15,7 @@
 
 - name: "Scalable, accessible, and reproducible reference genome assembly and evaluation in Galaxy"
   descr: "Larivière, D.<sup>†</sup>, <b><u>Abueg, L.</u></b><sup>†</sup>, Brajuka, N.<sup>†</sup>, et al. (2023, bioRxiv) († = first authors)"
-  demo: https://doi.org/10.1016/j.celrep.2023.111992https://doi.org/10.1101/2023.06.28.546576  
+  demo: https://doi.org/10.1101/2023.06.28.546576  
   tags:
     - tag: genome assembly
     - tag: galaxy platform
