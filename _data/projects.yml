@@ -14,8 +14,8 @@
 #     - tag: Node
 
 - name: "Scalable, accessible, and reproducible reference genome assembly and evaluation in Galaxy"
-  descr: "Larivière, D.<sup>†</sup>, <b><u>Abueg, L.</u></b><sup>†</sup>, Brajuka, N.<sup>†</sup>, et al. (2023, bioRxiv) († = first authors)"
-  demo: https://doi.org/10.1101/2023.06.28.546576  
+  descr: "Larivière, D.<sup>†</sup>, <b><u>Abueg, L.</u></b><sup>†</sup>, Brajuka, N.<sup>†</sup>, et al. (2024, Nature Biotechnology) († = first authors)"
+  demo: https://doi.org/10.1038/s41587-023-02100-3
   tags:
     - tag: genome assembly
     - tag: galaxy platform
