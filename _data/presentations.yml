@@ -13,6 +13,10 @@
 #     - tag: AngularJS
 #     - tag: Node
 
+- name: Using the VGP workflows to assemble a vertebrate genome with HiFi and Hi-C data 
+  descr: "Video tutorial: Linelle Abueg</br>Written tutorial: Delphine Lariviere, Alex Ostrovsky, Cristóbal Gallardo, Brandon Pickett, Linelle Abueg, Anton Nekrutenko."
+  demo: https://training.galaxyproject.org/training-material/topics/assembly/tutorials/vgp_workflow_training/recordings/index.html#tutorial-recording-12-september-2024
+
 - name: Reproducible & high-quality genome assembly on public computational infrastructure (click link for video)
   descr: Linelle Abueg (click link for video!)
   demo: https://www.youtube.com/watch?v=_FssznFzicA
